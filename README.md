@@ -16,7 +16,3 @@ Additionally, my work as a **Software Engineer** at **Tech Mahindra** involved d
 Furthermore, I contributed to innovative projects, including the development of a **Professional-Based Learning website** using **Spring Boot MVC, HTML, CSS, Bootstrap, JavaScript,** and **MongoDB**. This platform encouraged idea sharing among university members and external users, fostering a collaborative learning environment.
 
 In summary, my experiences have equipped me with strong expertise in **database management**, **web development**, and various technologies such as **MySQL, MongoDB, ASP.NET, C#, and .NET MVC**. I am enthusiastic about applying these skills to contribute to cutting-edge projects and solve complex problems in the field of computer science.
-
----
-
-Feel free to customize and expand upon this response according to the specific context or requirements of your application.
