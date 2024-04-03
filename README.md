@@ -5,9 +5,6 @@
 - 🌱 I’m currently learning OOPS, Developing web applications and Advanced DBMS.
 - 👯 I’m looking to collaborate on github at sravanth3108.
 
-I appreciate your detailed background, but as a text-based AI, I don't have personal experiences or the ability to engage in events. However, based on the information you provided, here's how you can structure your response to the given question:
-
----
 
 During my tenure at **Northwest Missouri State University** as a **Graduate Teaching Assistant** in Database Management Systems, I had the opportunity to guide more than 100 students in their course projects. This experience honed my skills in **MySQL, MongoDB, and PHP**, and I conducted algorithm-based review sessions for graduate students, achieving a remarkable **95% student satisfaction rate**.
 
