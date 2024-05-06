@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I am Sravanth Kumar Reddy Pullamgari
+## I am Sravanth
 
 - 🔭 I have worked on VMWare.
 - 🌱 I’m currently learning OOPS, Developing web applications and Advanced DBMS.
